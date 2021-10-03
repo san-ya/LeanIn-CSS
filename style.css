@@ -1,0 +1,30 @@
+.img1 {
+    border: 5px dashed red;
+    cursor: pointer;
+    margin: 50px;
+}
+
+.hi {
+    font-family: 'Barlow', sans-serif;
+}
+
+.tag4 {
+    font-style: italic;
+}
+
+.tag5 {
+    text-transform: lowercase;
+}
+
+.eight {
+    display: flex;
+}
+
+#one {
+    margin: 10px;
+    font-size: 20px;
+}
+
+#two {
+    padding: 0 6px;
+}
